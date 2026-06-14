@@ -1,0 +1,28 @@
+# Simulation and temporary files
+*.wlf
+*.vcd
+wlft*
+vsim.wlf
+transcript
+*.db
+*.qdb
+*.qpg
+*.qtl
+work/
+_modelsim.ini
+
+# Synthesis files
+db/
+incremental_db/
+*.sof
+*.pof
+*.qpf
+*.qsf
+*.rpt
+
+# Editor files
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
